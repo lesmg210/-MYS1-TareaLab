@@ -1,0 +1,6 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+10.4166666666664,--,--,--,--,The maximum number in system limit for entities of type 'Persona' has been exceeded.
+10.4166666666664,--,--,--,--,Possible causes:
+86.8750000000032,--,--,--,--,"The number of active entities in the simulation has exceeded 20,000 objects"
+86.8750000000032,--,--,--,--,This may indicate that there is a logic problem in the model which is creating too many entities or is not destroying them. 
+
